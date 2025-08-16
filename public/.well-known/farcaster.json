@@ -10,14 +10,14 @@
     "subtitle": "Built with Zara",
     "description": "TipFlow is a Base Mini App built with Zara.",
     "iconUrl": "https://0co.to/images/zara-2.png",
-    "homeUrl": "https://c46bfe64-42f2-4d86-8ed0-d92b3a0bfd7f.vistara.dev",
-    "splashImageUrl": "https://dummyimage.com/200x200/0a0b0d/ffffff.png&text=Splash",
+    "homeUrl": "https://c46bfe6442f24d868ed0d92b3a0bfd7f-1zhe-eshf94qqd-vistara.vercel.app",
+    "splashImageUrl": "https://c46bfe6442f24d868ed0d92b3a0bfd7f-1zhe-eshf94qqd-vistara.vercel.app/splash.png",
     "splashBackgroundColor": "#000000",
-    "heroImageUrl": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Hero",
+    "heroImageUrl": "https://c46bfe6442f24d868ed0d92b3a0bfd7f-1zhe-eshf94qqd-vistara.vercel.app/image.png",
     "tagline": "TipFlow",
     "screenshotUrls": [
-      "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Shot1",
-      "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Shot2"
+      "https://c46bfe6442f24d868ed0d92b3a0bfd7f-1zhe-eshf94qqd-vistara.vercel.app/screenshot.png",
+      "https://c46bfe6442f24d868ed0d92b3a0bfd7f-1zhe-eshf94qqd-vistara.vercel.app/screenshot.png"
     ],
     "primaryCategory": "social",
     "tags": [
@@ -25,6 +25,6 @@
       "miniapp",
       "onchainkit"
     ],
-    "webhookUrl": "https://c46bfe64-42f2-4d86-8ed0-d92b3a0bfd7f.vistara.dev/api/webhook"
+    "webhookUrl": "https://c46bfe6442f24d868ed0d92b3a0bfd7f-1zhe-eshf94qqd-vistara.vercel.app/api/webhook"
   }
 }
